@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
+<p align="center">
 <a href="https://github.com/toan-05"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 <a href="https://facebook.com"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
 <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
@@ -54,8 +54,9 @@
 
 </div>
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/toan-05/toan-05/output/snake.svg" alt="Snake animation" />
-
+</div>
 ---
 
 ## 🧠 About Me

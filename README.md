@@ -8,10 +8,14 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
+<p align="left">
 <a href="https://github.com/toan-05"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-<a href="https://facebook.com"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
-<a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  <a href="https://www.facebook.com/tornaH1311/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
 </p>
 
 ---

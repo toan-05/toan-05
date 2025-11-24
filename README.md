@@ -1,45 +1,76 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋, I'm Nguyen Quoc Toan</h1>
+<h3 align="center">Frontend Developer | ReactJS | JavaScript | UI/UX</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;ReactJS+%7C+JavaScript+%7C+UI%2FUX;Writing+clean+and+modern+UI;Always+learning+new+technologies" />
+</p>
 
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://github.com/toan-05"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+<a href="https://facebook.com"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
+<a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+### 🖥️ Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+<img src="https://skillicons.dev/icons?i=js" width="45"/>
+<img src="https://skillicons.dev/icons?i=ts" width="45"/>
+<img src="https://skillicons.dev/icons?i=redux" width="45"/>
+<img src="https://skillicons.dev/icons?i=vite" width="45"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
+<img src="https://skillicons.dev/icons?i=css" width="45"/>
+</p>
+
+### ⚙️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+<img src="https://skillicons.dev/icons?i=postman" width="45"/>
+<img src="https://skillicons.dev/icons?i=figma" width="45"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=toan-05&show_icons=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=toan-05&theme=tokyonight" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+## 🔥 Most Used Languages
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toan-05&layout=compact&theme=tokyonight" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🧠 About Me
+- 🌱 Currently learning **ReactJS, Redux Toolkit, React Query, TailwindCSS**
+- 🎯 Goal: Become a strong **React Frontend Engineer**
+- 🔥 Love building UI that is fast, clean, and modern
+- ✉️ Reach me: *your-email@gmail.com*
 
-###
+---
 
-<br clear="both">
+## 🫶 Fun GIF
+<p align="center">
+  <img src="https://i.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.webp" width="200"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+---
 
-###
+⭐ **If you like my profile, consider giving my repos a star!**  

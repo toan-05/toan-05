@@ -21,8 +21,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=react" width="45"/>
 <img src="https://skillicons.dev/icons?i=js" width="45"/>
-<img src="https://skillicons.dev/icons?i=ts" width="45"/>
-<img src="https://skillicons.dev/icons?i=redux" width="45"/>
 <img src="https://skillicons.dev/icons?i=vite" width="45"/>
 <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
 <img src="https://skillicons.dev/icons?i=html" width="45"/>
@@ -59,7 +57,7 @@
 ---
 
 ## 🧠 About Me
-- 🌱 Currently learning **ReactJS, Redux Toolkit, React Query, TailwindCSS**
+- 🌱 Currently learning **ReactJS, React Query, TailwindCSS**
 - 🎯 Goal: Become a strong **React Frontend Engineer**
 - 🔥 Love building UI that is fast, clean, and modern
 - ✉️ Reach me: *your-email@gmail.com*

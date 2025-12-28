@@ -43,9 +43,7 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=toan-05&show_icons=true&theme=tokyonight&cache_seconds=86400">
-</picture>
+  <img src="https://streak-stats.demolab.com?user=toan-05&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ---

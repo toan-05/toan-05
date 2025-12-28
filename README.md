@@ -43,20 +43,18 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=toan-05&show_icons=true&theme=tokyonight" />
-
-
+<img height="180"
+     src="https://github-readme-stats.vercel.app/api?username=toan-05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
 
 ---
 
 ## 🔥 Most Used Languages
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toan-05&layout=compact&theme=tokyonight" />
-
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=toan-05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/toan-05/toan-05/output/snake.svg?v=2025" />

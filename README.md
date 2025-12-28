@@ -41,20 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=toan-05&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
----
-
-## 🔥 Most Used Languages
-<div align="center">
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=toan-05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</div>
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/toan-05/toan-05/output/snake.svg?v=2025" />
 </div>

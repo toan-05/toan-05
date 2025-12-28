@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/toan-05/toan-05/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/toan-05/toan-05/output/snake.svg?v=2025" />
 </div>
 ---
 

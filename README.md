@@ -20,7 +20,7 @@
 - 💻 I enjoy building **secure, clean, and scalable backend systems**
 - 🧩 Interested in **REST API design, authentication, authorization, and system architecture**
 - 🚀 Always improving my skills through real-world backend projects
-- ✉️ Reach me: **your-email@gmail.com**
+- ✉️ Reach me: **nguyenquoctoan.dev@gmail.com**
 
 ---
 

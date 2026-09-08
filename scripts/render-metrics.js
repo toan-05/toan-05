@@ -71,19 +71,19 @@ async function main() {
     })
     .join("\n");
 
-  // sao = ký tự, không phải chấm tròn
-  let dots = "";
-  for (let i = 0; i < 22; i++) {
-    const x = (i * 211 + 37) % 1200;
-    const y = (i * 131 + 19) % 250;
+  // dải thiên hà mờ (đồng bộ banner, không rải sao lung tung)
+  let band = `<ellipse cx="600" cy="125" rx="520" ry="60" fill="#fff" opacity="0.03" transform="rotate(-8 600 125)"/>\n`;
+  for (let i = 0; i < 36; i++) {
+    const x = (i * 167 + 41) % 1200;
+    const off = ((i * 79) % 80) - 40;
+    const y = 125 + off * 0.9;
     const ch = CHARS[i % CHARS.length];
-    const size = 8 + (i % 3) * 4;
-    dots += `<text x="${x}" y="${y}" font-size="${size}" fill="#fff" opacity="0.3" font-family="Consolas, monospace">${ch}<animate attributeName="opacity" values="0.08;0.6;0.08" dur="${3 + (i % 4)}s" repeatCount="indefinite"/></text>\n`;
+    band += `<text x="${x.toFixed(0)}" y="${y.toFixed(0)}" font-size="${5 + (i % 2) * 2}" fill="#fff" opacity="0.12" font-family="Consolas, monospace" transform="rotate(-8 ${x.toFixed(0)} ${y.toFixed(0)})">${ch}<animate attributeName="opacity" values="0.04;0.3;0.04" dur="${(4 + (i % 5)).toFixed(0)}s" repeatCount="indefinite"/></text>\n`;
   }
 
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
   <rect width="1200" height="250" rx="6" fill="${BG}"/>
-  ${dots}
+  ${band}
   <text x="40" y="48" font-size="20" font-weight="700" fill="${FG}" font-family="Consolas, monospace">@${esc(user.login)} <tspan fill="${MUTED}" font-weight="400">— telemetry</tspan></text>
   <text x="1150" y="48" font-size="16" fill="${FG}">✦<animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></text>
   ${cells}

@@ -52,7 +52,7 @@
     <text x="82" y="32" font-size="30" font-weight="900" fill="#fff" font-family="Segoe UI, Arial">@toan-05
       <animate attributeName="opacity" values="1;0.85;1" dur="3s" repeatCount="indefinite"/>
     </text>
-    <text x="82" y="58" font-size="15" fill="#c4b5fd" font-family="Segoe UI, Arial">auto-rendered by GitHub Actions • Node.js v20.20.2</text>
+    <text x="82" y="58" font-size="15" fill="#c4b5fd" font-family="Segoe UI, Arial">auto-rendered by GitHub Actions • Node.js v22.23.2</text>
     <!-- tia shine chạy ngang -->
     <rect x="82" y="64" width="220" height="6" rx="3" fill="rgba(255,255,255,0.12)"/>
     <rect x="82" y="64" width="60" height="6" rx="3" fill="url(#shine)">
@@ -179,7 +179,7 @@
   <!-- Footer -->
   <g transform="translate(40,398)">
     <rect width="1120" height="1.5" fill="url(#neon)" opacity="0.6"/>
-    <text y="28" font-size="13" fill="#94a3b8" font-family="Consolas, monospace">updated: 2026-09-08 22:28 UTC+7 • repos scanned: 12 • since 2025-03-06</text>
+    <text y="28" font-size="13" fill="#94a3b8" font-family="Consolas, monospace">updated: 2026-09-08 22:31 UTC+7 • repos scanned: 12 • since 2025-03-06</text>
     <text x="1120" y="28" text-anchor="end" font-size="13" fill="#f0abfc" font-family="Segoe UI, Arial">✨ rendered by scripts/render-metrics.js</text>
   </g>
 </svg>

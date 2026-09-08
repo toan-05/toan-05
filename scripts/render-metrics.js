@@ -1,5 +1,10 @@
 // scripts/render-metrics.js
-// MINIMAL mono: 4 số liệu, 1 dòng top-lang, không chart cột, không hành tinh.
+// BẦU TRỜI SAO KÝ TỰ — nền #0d1117 trùng GitHub dark, tối giản.
+const BG = "#0d1117";       // trùng nền GitHub dark
+const FG = "#f0f6fc";       // chữ chính GitHub dark
+const MUTED = "#8b949e";    // chữ mờ GitHub dark
+const FAINT = "#30363d";    // viền GitHub dark
+const CHARS = ["✦", "✧", "⋆", "✶", "*", "·", "+"];
 
 import { writeFileSync, mkdirSync } from "node:fs";
 import { dirname, join } from "node:path";
@@ -59,29 +64,31 @@ async function main() {
     .map(([k, v], i) => {
       const x = 40 + i * 280;
       return `<g transform="translate(${x},90)">
-        <rect width="250" height="80" rx="10" fill="none" stroke="#fff" stroke-opacity="0.25"/>
-        <text x="20" y="36" font-size="24" font-weight="700" fill="#fff" font-family="Consolas, monospace">${esc(v)}</text>
-        <text x="20" y="60" font-size="12" fill="#737373" font-family="Consolas, monospace" letter-spacing="3">${k}</text>
+        <rect width="250" height="80" rx="6" fill="none" stroke="${FAINT}" stroke-width="1.5"/>
+        <text x="20" y="36" font-size="24" font-weight="700" fill="${FG}" font-family="Consolas, monospace">${esc(v)}</text>
+        <text x="20" y="60" font-size="12" fill="${MUTED}" font-family="Consolas, monospace" letter-spacing="3">${k}</text>
       </g>`;
     })
     .join("\n");
 
+  // sao = ký tự, không phải chấm tròn
   let dots = "";
-  for (let i = 0; i < 20; i++) {
+  for (let i = 0; i < 22; i++) {
     const x = (i * 211 + 37) % 1200;
     const y = (i * 131 + 19) % 250;
-    dots += `<circle cx="${x}" cy="${y}" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="${3 + (i % 4)}s" repeatCount="indefinite"/></circle>\n`;
+    const ch = CHARS[i % CHARS.length];
+    const size = 8 + (i % 3) * 4;
+    dots += `<text x="${x}" y="${y}" font-size="${size}" fill="#fff" opacity="0.3" font-family="Consolas, monospace">${ch}<animate attributeName="opacity" values="0.08;0.6;0.08" dur="${3 + (i % 4)}s" repeatCount="indefinite"/></text>\n`;
   }
 
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
-  <rect width="1200" height="250" rx="12" fill="#050505"/>
-  <rect width="1200" height="250" rx="12" fill="none" stroke="#fff" stroke-opacity="0.3"/>
+  <rect width="1200" height="250" rx="6" fill="${BG}"/>
   ${dots}
-  <text x="40" y="48" font-size="20" font-weight="700" fill="#fff" font-family="Consolas, monospace">@${esc(user.login)} <tspan fill="#737373" font-weight="400">— telemetry</tspan></text>
-  <circle cx="1150" cy="42" r="4" fill="#fff"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="40" y="48" font-size="20" font-weight="700" fill="${FG}" font-family="Consolas, monospace">@${esc(user.login)} <tspan fill="${MUTED}" font-weight="400">— telemetry</tspan></text>
+  <text x="1150" y="48" font-size="16" fill="${FG}">✦<animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></text>
   ${cells}
-  <text x="40" y="212" font-size="13" fill="#737373" font-family="Consolas, monospace">top: ${esc(top3)}</text>
-  <text x="1160" y="212" text-anchor="end" font-size="13" fill="#525252" font-family="Consolas, monospace">${esc(updated)}</text>
+  <text x="40" y="212" font-size="13" fill="${MUTED}" font-family="Consolas, monospace">top: ${esc(top3)}</text>
+  <text x="1160" y="212" text-anchor="end" font-size="13" fill="#6e7681" font-family="Consolas, monospace">${esc(updated)}</text>
 </svg>`;
 
   writeFileSync(join(ROOT, "assets", "metrics.svg"), svg);

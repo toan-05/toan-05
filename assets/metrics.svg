@@ -1,49 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
-  <rect width="1200" height="250" rx="12" fill="#050505"/>
-  <rect width="1200" height="250" rx="12" fill="none" stroke="#fff" stroke-opacity="0.3"/>
-  <circle cx="37" cy="19" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="3s" repeatCount="indefinite"/></circle>
-<circle cx="248" cy="150" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="4s" repeatCount="indefinite"/></circle>
-<circle cx="459" cy="31" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="5s" repeatCount="indefinite"/></circle>
-<circle cx="670" cy="162" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="6s" repeatCount="indefinite"/></circle>
-<circle cx="881" cy="43" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="3s" repeatCount="indefinite"/></circle>
-<circle cx="1092" cy="174" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="4s" repeatCount="indefinite"/></circle>
-<circle cx="103" cy="55" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="5s" repeatCount="indefinite"/></circle>
-<circle cx="314" cy="186" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="6s" repeatCount="indefinite"/></circle>
-<circle cx="525" cy="67" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="3s" repeatCount="indefinite"/></circle>
-<circle cx="736" cy="198" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="4s" repeatCount="indefinite"/></circle>
-<circle cx="947" cy="79" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="5s" repeatCount="indefinite"/></circle>
-<circle cx="1158" cy="210" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="6s" repeatCount="indefinite"/></circle>
-<circle cx="169" cy="91" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="3s" repeatCount="indefinite"/></circle>
-<circle cx="380" cy="222" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="4s" repeatCount="indefinite"/></circle>
-<circle cx="591" cy="103" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="5s" repeatCount="indefinite"/></circle>
-<circle cx="802" cy="234" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="6s" repeatCount="indefinite"/></circle>
-<circle cx="1013" cy="115" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="3s" repeatCount="indefinite"/></circle>
-<circle cx="24" cy="246" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="4s" repeatCount="indefinite"/></circle>
-<circle cx="235" cy="127" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="5s" repeatCount="indefinite"/></circle>
-<circle cx="446" cy="8" r="1" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.08;0.55;0.08" dur="6s" repeatCount="indefinite"/></circle>
+  <rect width="1200" height="250" rx="6" fill="#0d1117"/>
+  <text x="37" y="19" font-size="8" fill="#fff" opacity="0.3" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.08;0.6;0.08" dur="3s" repeatCount="indefinite"/></text>
+<text x="248" y="150" font-size="12" fill="#fff" opacity="0.3" font-family="Consolas, monospace">✧<animate attributeName="opacity" values="0.08;0.6;0.08" dur="4s" repeatCount="indefinite"/></text>
+<text x="459" y="31" font-size="16" fill="#fff" opacity="0.3" font-family="Consolas, monospace">⋆<animate attributeName="opacity" values="0.08;0.6;0.08" dur="5s" repeatCount="indefinite"/></text>
+<text x="670" y="162" font-size="8" fill="#fff" opacity="0.3" font-family="Consolas, monospace">✶<animate attributeName="opacity" values="0.08;0.6;0.08" dur="6s" repeatCount="indefinite"/></text>
+<text x="881" y="43" font-size="12" fill="#fff" opacity="0.3" font-family="Consolas, monospace">*<animate attributeName="opacity" values="0.08;0.6;0.08" dur="3s" repeatCount="indefinite"/></text>
+<text x="1092" y="174" font-size="16" fill="#fff" opacity="0.3" font-family="Consolas, monospace">·<animate attributeName="opacity" values="0.08;0.6;0.08" dur="4s" repeatCount="indefinite"/></text>
+<text x="103" y="55" font-size="8" fill="#fff" opacity="0.3" font-family="Consolas, monospace">+<animate attributeName="opacity" values="0.08;0.6;0.08" dur="5s" repeatCount="indefinite"/></text>
+<text x="314" y="186" font-size="12" fill="#fff" opacity="0.3" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.08;0.6;0.08" dur="6s" repeatCount="indefinite"/></text>
+<text x="525" y="67" font-size="16" fill="#fff" opacity="0.3" font-family="Consolas, monospace">✧<animate attributeName="opacity" values="0.08;0.6;0.08" dur="3s" repeatCount="indefinite"/></text>
+<text x="736" y="198" font-size="8" fill="#fff" opacity="0.3" font-family="Consolas, monospace">⋆<animate attributeName="opacity" values="0.08;0.6;0.08" dur="4s" repeatCount="indefinite"/></text>
+<text x="947" y="79" font-size="12" fill="#fff" opacity="0.3" font-family="Consolas, monospace">✶<animate attributeName="opacity" values="0.08;0.6;0.08" dur="5s" repeatCount="indefinite"/></text>
+<text x="1158" y="210" font-size="16" fill="#fff" opacity="0.3" font-family="Consolas, monospace">*<animate attributeName="opacity" values="0.08;0.6;0.08" dur="6s" repeatCount="indefinite"/></text>
+<text x="169" y="91" font-size="8" fill="#fff" opacity="0.3" font-family="Consolas, monospace">·<animate attributeName="opacity" values="0.08;0.6;0.08" dur="3s" repeatCount="indefinite"/></text>
+<text x="380" y="222" font-size="12" fill="#fff" opacity="0.3" font-family="Consolas, monospace">+<animate attributeName="opacity" values="0.08;0.6;0.08" dur="4s" repeatCount="indefinite"/></text>
+<text x="591" y="103" font-size="16" fill="#fff" opacity="0.3" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.08;0.6;0.08" dur="5s" repeatCount="indefinite"/></text>
+<text x="802" y="234" font-size="8" fill="#fff" opacity="0.3" font-family="Consolas, monospace">✧<animate attributeName="opacity" values="0.08;0.6;0.08" dur="6s" repeatCount="indefinite"/></text>
+<text x="1013" y="115" font-size="12" fill="#fff" opacity="0.3" font-family="Consolas, monospace">⋆<animate attributeName="opacity" values="0.08;0.6;0.08" dur="3s" repeatCount="indefinite"/></text>
+<text x="24" y="246" font-size="16" fill="#fff" opacity="0.3" font-family="Consolas, monospace">✶<animate attributeName="opacity" values="0.08;0.6;0.08" dur="4s" repeatCount="indefinite"/></text>
+<text x="235" y="127" font-size="8" fill="#fff" opacity="0.3" font-family="Consolas, monospace">*<animate attributeName="opacity" values="0.08;0.6;0.08" dur="5s" repeatCount="indefinite"/></text>
+<text x="446" y="8" font-size="12" fill="#fff" opacity="0.3" font-family="Consolas, monospace">·<animate attributeName="opacity" values="0.08;0.6;0.08" dur="6s" repeatCount="indefinite"/></text>
+<text x="657" y="139" font-size="16" fill="#fff" opacity="0.3" font-family="Consolas, monospace">+<animate attributeName="opacity" values="0.08;0.6;0.08" dur="3s" repeatCount="indefinite"/></text>
+<text x="868" y="20" font-size="8" fill="#fff" opacity="0.3" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.08;0.6;0.08" dur="4s" repeatCount="indefinite"/></text>
 
-  <text x="40" y="48" font-size="20" font-weight="700" fill="#fff" font-family="Consolas, monospace">@toan-05 <tspan fill="#737373" font-weight="400">— telemetry</tspan></text>
-  <circle cx="1150" cy="42" r="4" fill="#fff"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="40" y="48" font-size="20" font-weight="700" fill="#f0f6fc" font-family="Consolas, monospace">@toan-05 <tspan fill="#8b949e" font-weight="400">— telemetry</tspan></text>
+  <text x="1150" y="48" font-size="16" fill="#f0f6fc">✦<animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></text>
   <g transform="translate(40,90)">
-        <rect width="250" height="80" rx="10" fill="none" stroke="#fff" stroke-opacity="0.25"/>
-        <text x="20" y="36" font-size="24" font-weight="700" fill="#fff" font-family="Consolas, monospace">12</text>
-        <text x="20" y="60" font-size="12" fill="#737373" font-family="Consolas, monospace" letter-spacing="3">REPOS</text>
+        <rect width="250" height="80" rx="6" fill="none" stroke="#30363d" stroke-width="1.5"/>
+        <text x="20" y="36" font-size="24" font-weight="700" fill="#f0f6fc" font-family="Consolas, monospace">12</text>
+        <text x="20" y="60" font-size="12" fill="#8b949e" font-family="Consolas, monospace" letter-spacing="3">REPOS</text>
       </g>
 <g transform="translate(320,90)">
-        <rect width="250" height="80" rx="10" fill="none" stroke="#fff" stroke-opacity="0.25"/>
-        <text x="20" y="36" font-size="24" font-weight="700" fill="#fff" font-family="Consolas, monospace">0</text>
-        <text x="20" y="60" font-size="12" fill="#737373" font-family="Consolas, monospace" letter-spacing="3">STARS</text>
+        <rect width="250" height="80" rx="6" fill="none" stroke="#30363d" stroke-width="1.5"/>
+        <text x="20" y="36" font-size="24" font-weight="700" fill="#f0f6fc" font-family="Consolas, monospace">0</text>
+        <text x="20" y="60" font-size="12" fill="#8b949e" font-family="Consolas, monospace" letter-spacing="3">STARS</text>
       </g>
 <g transform="translate(600,90)">
-        <rect width="250" height="80" rx="10" fill="none" stroke="#fff" stroke-opacity="0.25"/>
-        <text x="20" y="36" font-size="24" font-weight="700" fill="#fff" font-family="Consolas, monospace">0</text>
-        <text x="20" y="60" font-size="12" fill="#737373" font-family="Consolas, monospace" letter-spacing="3">FOLLOWERS</text>
+        <rect width="250" height="80" rx="6" fill="none" stroke="#30363d" stroke-width="1.5"/>
+        <text x="20" y="36" font-size="24" font-weight="700" fill="#f0f6fc" font-family="Consolas, monospace">0</text>
+        <text x="20" y="60" font-size="12" fill="#8b949e" font-family="Consolas, monospace" letter-spacing="3">FOLLOWERS</text>
       </g>
 <g transform="translate(880,90)">
-        <rect width="250" height="80" rx="10" fill="none" stroke="#fff" stroke-opacity="0.25"/>
-        <text x="20" y="36" font-size="24" font-weight="700" fill="#fff" font-family="Consolas, monospace">0</text>
-        <text x="20" y="60" font-size="12" fill="#737373" font-family="Consolas, monospace" letter-spacing="3">FOLLOWING</text>
+        <rect width="250" height="80" rx="6" fill="none" stroke="#30363d" stroke-width="1.5"/>
+        <text x="20" y="36" font-size="24" font-weight="700" fill="#f0f6fc" font-family="Consolas, monospace">0</text>
+        <text x="20" y="60" font-size="12" fill="#8b949e" font-family="Consolas, monospace" letter-spacing="3">FOLLOWING</text>
       </g>
-  <text x="40" y="212" font-size="13" fill="#737373" font-family="Consolas, monospace">top: Java · JavaScript · Other</text>
-  <text x="1160" y="212" text-anchor="end" font-size="13" fill="#525252" font-family="Consolas, monospace">2026-09-08 22:45</text>
+  <text x="40" y="212" font-size="13" fill="#8b949e" font-family="Consolas, monospace">top: Java · JavaScript · Other</text>
+  <text x="1160" y="212" text-anchor="end" font-size="13" fill="#6e7681" font-family="Consolas, monospace">2026-09-08 22:50</text>
 </svg>

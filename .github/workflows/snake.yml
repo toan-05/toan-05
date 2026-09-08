@@ -15,9 +15,10 @@ permissions:
 jobs:
   snake:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
@@ -26,6 +27,8 @@ jobs:
           outputs: |
             assets/github-snake.svg
             assets/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & push if changed
         run: |

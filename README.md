@@ -28,35 +28,33 @@
   <sub>LOADED MODULES</sub>
   <br/><br/>
 
-  <sub>BACKEND</sub><br/>
+  <sub>LANGUAGE</sub><br/>
   <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-0d1117?style=flat-square&logo=sass&logoColor=white" />
+  <br/><br/>
+
+  <sub>BACKEND</sub><br/>
   <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-0d1117?style=flat-square&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful_API-0d1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-0d1117?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-0d1117?style=flat-square&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=white" />
+  <br/><br/>
+
+  <sub>FRONTEND</sub><br/>
+  <img src="https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=white" />
   <br/><br/>
 
   <sub>DATABASE</sub><br/>
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=white" />
-  <br/><br/>
-
-  <sub>SECURITY</sub><br/>
-  <img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/RBAC-0d1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/BCrypt-0d1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Rate_Limiting-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=white" />
   <br/><br/>
 
   <sub>TOOLS</sub><br/>
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-0d1117?style=flat-square&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger_OpenAPI-0d1117?style=flat-square&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flyway-0d1117?style=flat-square&logo=flyway&logoColor=white" />
 
 </div>
 

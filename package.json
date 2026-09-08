@@ -5,7 +5,9 @@
   "description": "Render dynamic GitHub profile metrics to SVG via Actions",
   "type": "module",
   "scripts": {
-    "render": "node scripts/render-metrics.js"
+    "render": "node scripts/render-metrics.js && node scripts/render-space.js",
+    "render:metrics": "node scripts/render-metrics.js",
+    "render:space": "node scripts/render-space.js"
   },
   "engines": {
     "node": ">=18"

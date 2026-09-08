@@ -14,18 +14,18 @@
       "count": 5
     },
     {
-      "lang": "Other",
+      "lang": "JavaScript",
       "count": 2
+    },
+    {
+      "lang": "Other",
+      "count": 1
     },
     {
       "lang": "TypeScript",
       "count": 1
-    },
-    {
-      "lang": "JavaScript",
-      "count": 1
     }
   ],
-  "updated_at": "2026-09-08T15:31:32.011Z",
+  "updated_at": "2026-09-08T15:39:17.715Z",
   "api_error": null
 }

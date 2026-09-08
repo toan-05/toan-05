@@ -1,0 +1,13 @@
+{
+  "name": "toan-05-profile-metrics",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Render dynamic GitHub profile metrics to SVG via Actions",
+  "type": "module",
+  "scripts": {
+    "render": "node scripts/render-metrics.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

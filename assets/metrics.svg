@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="GitHub metrics for toan-05">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff6ec7"/>
+      <stop offset="50%" stop-color="#7873f5"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="white" stop-opacity="0"/>
+      <stop offset="50%" stop-color="white" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="460" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="460" rx="24" fill="none" stroke="url(#neon)" stroke-width="3"/>
+  <circle cx="0" cy="0" r="1" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="197" cy="89" r="1.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="394" cy="178" r="2.4" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="591" cy="267" r="1" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="5.0s" repeatCount="indefinite"/></circle>
+<circle cx="788" cy="356" r="1.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="6.0s" repeatCount="indefinite"/></circle>
+<circle cx="985" cy="445" r="2.4" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="1182" cy="74" r="1" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="179" cy="163" r="1.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="376" cy="252" r="2.4" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="5.0s" repeatCount="indefinite"/></circle>
+<circle cx="573" cy="341" r="1" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="6.0s" repeatCount="indefinite"/></circle>
+<circle cx="770" cy="430" r="1.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="967" cy="59" r="2.4" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="1164" cy="148" r="1" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="161" cy="237" r="1.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="5.0s" repeatCount="indefinite"/></circle>
+<circle cx="358" cy="326" r="2.4" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="6.0s" repeatCount="indefinite"/></circle>
+<circle cx="555" cy="415" r="1" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="752" cy="44" r="1.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="949" cy="133" r="2.4" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="1146" cy="222" r="1" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="5.0s" repeatCount="indefinite"/></circle>
+<circle cx="143" cy="311" r="1.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="6.0s" repeatCount="indefinite"/></circle>
+<circle cx="340" cy="400" r="2.4" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="537" cy="29" r="1" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="734" cy="118" r="1.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="931" cy="207" r="2.4" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="5.0s" repeatCount="indefinite"/></circle>
+
+  <!-- Header -->
+  <g transform="translate(40,32)">
+    <circle cx="34" cy="34" r="32" fill="url(#neon)"/>
+    <circle cx="34" cy="34" r="27" fill="#0f0c29"/>
+    <text x="34" y="45" text-anchor="middle" font-size="30" font-weight="900" fill="#fff" font-family="Segoe UI, Arial">N</text>
+    <text x="82" y="32" font-size="30" font-weight="900" fill="#fff" font-family="Segoe UI, Arial">@toan-05
+      <animate attributeName="opacity" values="1;0.85;1" dur="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="82" y="58" font-size="15" fill="#c4b5fd" font-family="Segoe UI, Arial">auto-rendered by GitHub Actions • Node.js v24.19.0</text>
+    <!-- tia shine chạy ngang -->
+    <rect x="82" y="64" width="220" height="6" rx="3" fill="rgba(255,255,255,0.12)"/>
+    <rect x="82" y="64" width="60" height="6" rx="3" fill="url(#shine)">
+      <animate attributeName="x" values="82;242;82" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- live badge -->
+  <g transform="translate(980,48)">
+    <rect width="180" height="36" rx="18" fill="#22c55e" opacity="0.9"/>
+    <circle cx="22" cy="18" r="7" fill="#fff">
+      <animate attributeName="r" values="7;4;7" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="38" y="24" font-size="15" font-weight="800" fill="#052e16" font-family="Segoe UI, Arial">● LIVE METRICS</text>
+  </g>
+
+  <line x1="40" y1="130" x2="1160" y2="130" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+
+  <!-- Stat cards -->
+  
+      <g transform="translate(40,170)">
+        <rect width="230" height="75" rx="16" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/>
+        <rect width="230" height="75" rx="16" fill="none" stroke="#ff6ec7" stroke-opacity="0.35" stroke-width="1.5"/>
+        <text x="16" y="30" font-size="22">♥</text>
+        <text x="48" y="30" font-size="22" font-weight="800" fill="#fff" font-family="Segoe UI, Arial">0</text>
+        <text x="16" y="54" font-size="13" fill="#c4b5fd" font-family="Segoe UI, Arial" letter-spacing="1">FOLLOWERS</text>
+        <circle cx="214" cy="16" r="4" fill="#ff6ec7">
+          <animate attributeName="opacity" values="1;0.2;1" dur="1.40s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+
+      <g transform="translate(290,170)">
+        <rect width="230" height="75" rx="16" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/>
+        <rect width="230" height="75" rx="16" fill="none" stroke="#7873f5" stroke-opacity="0.35" stroke-width="1.5"/>
+        <text x="16" y="30" font-size="22">★</text>
+        <text x="48" y="30" font-size="22" font-weight="800" fill="#fff" font-family="Segoe UI, Arial">0</text>
+        <text x="16" y="54" font-size="13" fill="#c4b5fd" font-family="Segoe UI, Arial" letter-spacing="1">FOLLOWING</text>
+        <circle cx="214" cy="16" r="4" fill="#7873f5">
+          <animate attributeName="opacity" values="1;0.2;1" dur="1.65s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+
+      <g transform="translate(540,170)">
+        <rect width="230" height="75" rx="16" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/>
+        <rect width="230" height="75" rx="16" fill="none" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="1.5"/>
+        <text x="16" y="30" font-size="22">▣</text>
+        <text x="48" y="30" font-size="22" font-weight="800" fill="#fff" font-family="Segoe UI, Arial">12</text>
+        <text x="16" y="54" font-size="13" fill="#c4b5fd" font-family="Segoe UI, Arial" letter-spacing="1">PUBLIC REPOS</text>
+        <circle cx="214" cy="16" r="4" fill="#38bdf8">
+          <animate attributeName="opacity" values="1;0.2;1" dur="1.90s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+
+      <g transform="translate(40,265)">
+        <rect width="230" height="75" rx="16" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/>
+        <rect width="230" height="75" rx="16" fill="none" stroke="#facc15" stroke-opacity="0.35" stroke-width="1.5"/>
+        <text x="16" y="30" font-size="22">✦</text>
+        <text x="48" y="30" font-size="22" font-weight="800" fill="#fff" font-family="Segoe UI, Arial">0</text>
+        <text x="16" y="54" font-size="13" fill="#c4b5fd" font-family="Segoe UI, Arial" letter-spacing="1">TOTAL STARS</text>
+        <circle cx="214" cy="16" r="4" fill="#facc15">
+          <animate attributeName="opacity" values="1;0.2;1" dur="2.15s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+
+      <g transform="translate(290,265)">
+        <rect width="230" height="75" rx="16" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/>
+        <rect width="230" height="75" rx="16" fill="none" stroke="#4ade80" stroke-opacity="0.35" stroke-width="1.5"/>
+        <text x="16" y="30" font-size="22">⑂</text>
+        <text x="48" y="30" font-size="22" font-weight="800" fill="#fff" font-family="Segoe UI, Arial">0</text>
+        <text x="16" y="54" font-size="13" fill="#c4b5fd" font-family="Segoe UI, Arial" letter-spacing="1">TOTAL FORKS</text>
+        <circle cx="214" cy="16" r="4" fill="#4ade80">
+          <animate attributeName="opacity" values="1;0.2;1" dur="2.40s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+
+      <g transform="translate(540,265)">
+        <rect width="230" height="75" rx="16" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/>
+        <rect width="230" height="75" rx="16" fill="none" stroke="#fb7185" stroke-opacity="0.35" stroke-width="1.5"/>
+        <text x="16" y="30" font-size="22">◷</text>
+        <text x="48" y="30" font-size="22" font-weight="800" fill="#fff" font-family="Segoe UI, Arial">551d</text>
+        <text x="16" y="54" font-size="13" fill="#c4b5fd" font-family="Segoe UI, Arial" letter-spacing="1">ACCOUNT AGE</text>
+        <circle cx="214" cy="16" r="4" fill="#fb7185">
+          <animate attributeName="opacity" values="1;0.2;1" dur="2.65s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+
+  <!-- Languages -->
+  <g>
+    <text x="830" y="150" font-size="15" font-weight="800" fill="#fff" font-family="Segoe UI, Arial" letter-spacing="2">TOP LANGUAGES</text>
+    
+        <g transform="translate(830,175)">
+          <text font-size="13" font-weight="700" fill="#fff" font-family="Segoe UI, Arial">Java <tspan fill="#94a3b8" font-weight="400">56%</tspan></text>
+          <rect y="10" width="300" height="12" rx="6" fill="rgba(255,255,255,0.10)"/>
+          <rect y="10" width="0" height="12" rx="6" fill="#b07219">
+            <animate attributeName="width" from="0" to="168" dur="1.2s" begin="0.00s" fill="freeze"/>
+          </rect>
+        </g>
+
+        <g transform="translate(830,223)">
+          <text font-size="13" font-weight="700" fill="#fff" font-family="Segoe UI, Arial">Other <tspan fill="#94a3b8" font-weight="400">22%</tspan></text>
+          <rect y="10" width="300" height="12" rx="6" fill="rgba(255,255,255,0.10)"/>
+          <rect y="10" width="0" height="12" rx="6" fill="#7873f5">
+            <animate attributeName="width" from="0" to="66" dur="1.2s" begin="0.15s" fill="freeze"/>
+          </rect>
+        </g>
+
+        <g transform="translate(830,271)">
+          <text font-size="13" font-weight="700" fill="#fff" font-family="Segoe UI, Arial">TypeScript <tspan fill="#94a3b8" font-weight="400">11%</tspan></text>
+          <rect y="10" width="300" height="12" rx="6" fill="rgba(255,255,255,0.10)"/>
+          <rect y="10" width="0" height="12" rx="6" fill="#3178c6">
+            <animate attributeName="width" from="0" to="33" dur="1.2s" begin="0.30s" fill="freeze"/>
+          </rect>
+        </g>
+
+        <g transform="translate(830,319)">
+          <text font-size="13" font-weight="700" fill="#fff" font-family="Segoe UI, Arial">JavaScript <tspan fill="#94a3b8" font-weight="400">11%</tspan></text>
+          <rect y="10" width="300" height="12" rx="6" fill="rgba(255,255,255,0.10)"/>
+          <rect y="10" width="0" height="12" rx="6" fill="#f1e05a">
+            <animate attributeName="width" from="0" to="33" dur="1.2s" begin="0.45s" fill="freeze"/>
+          </rect>
+        </g>
+  </g>
+
+  <!-- Footer -->
+  <g transform="translate(40,398)">
+    <rect width="1120" height="1.5" fill="url(#neon)" opacity="0.6"/>
+    <text y="28" font-size="13" fill="#94a3b8" font-family="Consolas, monospace">updated: 2026-09-08 22:26 UTC+7 • repos scanned: 12 • since 2025-03-06</text>
+    <text x="1120" y="28" text-anchor="end" font-size="13" fill="#f0abfc" font-family="Segoe UI, Arial">✨ rendered by scripts/render-metrics.js</text>
+  </g>
+</svg>

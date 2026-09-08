@@ -1,0 +1,31 @@
+{
+  "username": "toan-05",
+  "name": "Nguyễn Quốc Toản",
+  "followers": 0,
+  "following": 0,
+  "public_repos": 12,
+  "stars": 0,
+  "forks": 0,
+  "created_at": "2025-03-06T15:26:11Z",
+  "age_days": 551,
+  "top_languages": [
+    {
+      "lang": "Java",
+      "count": 5
+    },
+    {
+      "lang": "Other",
+      "count": 2
+    },
+    {
+      "lang": "TypeScript",
+      "count": 1
+    },
+    {
+      "lang": "JavaScript",
+      "count": 1
+    }
+  ],
+  "updated_at": "2026-09-08T15:26:45.875Z",
+  "api_error": null
+}

@@ -100,7 +100,7 @@
       <animateTransform attributeName="transform" type="rotate" from="0 36 36" to="360 36 36" dur="5s" repeatCount="indefinite"/>
     </g>
     <text x="100" y="34" font-size="30" font-weight="800" fill="#fff" font-family="Consolas, monospace">@toan-05</text>
-    <text x="100" y="60" font-size="14" fill="#a1a1a1" font-family="Consolas, monospace">MISSION // DEEP-SPACE TELEMETRY • Node v24.19.0</text>
+    <text x="100" y="60" font-size="14" fill="#a1a1a1" font-family="Consolas, monospace">MISSION // DEEP-SPACE TELEMETRY • Node v22.23.2</text>
   </g>
 
   <!-- status: SIGNAL -->
@@ -229,7 +229,7 @@
   <!-- Footer -->
   <g transform="translate(40,408)" font-family="Consolas, monospace">
     <line x1="0" y1="0" x2="1120" y2="0" stroke="#ffffff" stroke-opacity="0.25"/>
-    <text y="26" font-size="13" fill="#737373">updated: 2026-09-08 22:39 UTC+7 • repos: 12 • since 2025-03-06</text>
+    <text y="26" font-size="13" fill="#737373">updated: 2026-09-08 22:42 UTC+7 • repos: 12 • since 2025-03-06</text>
     <text x="1120" y="26" text-anchor="end" font-size="13" fill="#fff">◈ rendered by scripts/render-metrics.js</text>
   </g>
 </svg>

@@ -25,7 +25,7 @@
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=toan-05&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=f0f6fc" alt="stats" />
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=toan-05&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=f0f6fc" alt="stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=toan-05&hide_border=true&background=0d1117&ring=f0f6fc&fire=f0f6fc&currStreakNum=f0f6fc&currStreakLabel=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=6e7681" alt="streak" />
 
 </div>

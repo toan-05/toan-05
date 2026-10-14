@@ -9,8 +9,7 @@
   <img src="https://img.shields.io/badge/SKY-STARRY-0d1117?style=flat-square&labelColor=0d1117&color=0d1117&labelColor=0d1117" />
 
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=toan-05&style=flat-square&color=0d1117&labelColor=0d1117&label=visits" />
-
+  
 </div>
 
 <br/>

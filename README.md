@@ -46,6 +46,20 @@
 
 </div>
 
+<br/>
+
+<img src="./assets/space-divider.svg" width="100%" alt="" />
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg">
+    <img src="./assets/activity-dark.svg" width="100%" alt="activity radar" />
+  </picture>
+
+</div>
+
 <div align="center">
 
   <sub>LOADED MODULES</sub>

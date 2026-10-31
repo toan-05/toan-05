@@ -25,10 +25,11 @@ jobs:
         with:
           node-version: 22
 
-      - name: Render metrics + space SVG
+      - name: Render metrics + space + activity SVG
         run: |
           node scripts/render-metrics.js
           node scripts/render-space.js
+          node scripts/render-activity.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           METRICS_USER: toan-05
@@ -38,4 +39,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/
-          git diff --cached --quiet || (git commit -m "chore: auto-render metrics + space ✨ $(date -u '+%Y-%m-%d %H:%M UTC')" && git push)
+          git diff --cached --quiet || (git commit -m "chore: auto-render metrics + space + activity ✨ $(date -u '+%Y-%m-%d %H:%M UTC')" && git push)

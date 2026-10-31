@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
-  <rect width="1200" height="250" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <rect width="1200" height="250" rx="6" fill="#0d1117"/>
   <ellipse cx="600" cy="125" rx="520" ry="60" fill="#fff" opacity="0.03" transform="rotate(-8 600 125)"/>
 <text x="41" y="89" font-size="5" fill="#fff" opacity="0.12" font-family="Consolas, monospace" transform="rotate(-8 41 89)">✦<animate attributeName="opacity" values="0.04;0.3;0.04" dur="4s" repeatCount="indefinite"/></text>
 <text x="208" y="160" font-size="7" fill="#fff" opacity="0.12" font-family="Consolas, monospace" transform="rotate(-8 208 160)">✧<animate attributeName="opacity" values="0.04;0.3;0.04" dur="5s" repeatCount="indefinite"/></text>
@@ -61,5 +61,5 @@
         <text x="20" y="60" font-size="12" fill="#8b949e" font-family="Consolas, monospace" letter-spacing="3">FOLLOWING</text>
       </g>
   <text x="40" y="212" font-size="13" fill="#8b949e" font-family="Consolas, monospace">top: Java · JavaScript · HTML</text>
-  <text x="1160" y="212" text-anchor="end" font-size="13" fill="#8b949e" font-family="Consolas, monospace">2026-10-31 19:42</text>
+  <text x="1160" y="212" text-anchor="end" font-size="13" fill="#8b949e" font-family="Consolas, monospace">2026-10-31 19:54</text>
 </svg>

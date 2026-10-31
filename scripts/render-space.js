@@ -1,6 +1,6 @@
 // scripts/render-space.js
 // BANNER = dải thiên hà + 2 sao băng song song (đúng góc đuôi).
-// Hỗ trợ cả giao diện SÁNG (light) và TỐI (dark).
+// Hỗ trợ cả giao diện SÁNG (light) và TỐI (dark). Không viền (borderless).
 
 import { writeFileSync, mkdirSync } from "node:fs";
 import { dirname, join } from "node:path";
@@ -15,7 +15,6 @@ const CHARS = ["✦", "✧", "⋆", "✶", "*", "·", "+"];
 function renderBanner(theme = "dark") {
   const isDark = theme === "dark";
   const bg = isDark ? "#0d1117" : "#ffffff";
-  const border = isDark ? "#30363d" : "#d0d7de";
   const titleColor = isDark ? "#f0f6fc" : "#1f2328";
   const subColor = isDark ? "#8b949e" : "#656d76";
 
@@ -79,8 +78,9 @@ function renderBanner(theme = "dark") {
   </g>`;
   }
 
+  // Viền ngoài bị bỏ theo yêu cầu của user (bỏ stroke)
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
-  <rect width="1000" height="260" rx="6" fill="${bg}" stroke="${border}" stroke-width="1"/>
+  <rect width="1000" height="260" rx="6" fill="${bg}"/>
   ${galaxy}
   ${meteor("m1", 1080, 30, -80, 250, 110, 4.5, 0.5, 2.2)}
   ${meteor("m2", 950, -30, -210, 190, 70, 7, 3.5, 1.6)}
@@ -115,4 +115,4 @@ writeFileSync(join(ROOT, "assets", "space-banner.svg"), bannerDark); // fallback
 
 writeFileSync(join(ROOT, "assets", "space-divider.svg"), divider);
 
-console.log("✅ space banner & divider rendered (dark + light)");
+console.log("✅ space banner & divider rendered (borderless, dark + light)");

@@ -1,6 +1,6 @@
 // scripts/render-metrics.js
 // BẦU TRỜI SAO KÝ TỰ — telemetry metrics.
-// Hỗ trợ cả giao diện SÁNG (light) và TỐI (dark).
+// Hỗ trợ cả giao diện SÁNG (light) và TỐI (dark). Không viền ngoài (borderless).
 
 import { writeFileSync, mkdirSync } from "node:fs";
 import { dirname, join } from "node:path";
@@ -31,7 +31,6 @@ const esc = (s) =>
 function renderMetricsSVG({ user, stars, top3, updated }, theme = "dark") {
   const isDark = theme === "dark";
   const bg = isDark ? "#0d1117" : "#ffffff";
-  const border = isDark ? "#30363d" : "#d0d7de";
   const fg = isDark ? "#f0f6fc" : "#1f2328";
   const muted = isDark ? "#8b949e" : "#656d76";
   const faint = isDark ? "#30363d" : "#d0d7de";
@@ -73,8 +72,9 @@ function renderMetricsSVG({ user, stars, top3, updated }, theme = "dark") {
     band += `<text x="${x.toFixed(0)}" y="${y.toFixed(0)}" font-size="${5 + (i % 2) * 2}" fill="${fill}" opacity="${baseOp}" font-family="Consolas, monospace" transform="rotate(-8 ${x.toFixed(0)} ${y.toFixed(0)})">${ch}<animate attributeName="opacity" values="${minOp};${maxOp};${minOp}" dur="${(4 + (i % 5)).toFixed(0)}s" repeatCount="indefinite"/></text>\n`;
   }
 
+  // Viền ngoài bị bỏ theo yêu cầu của user (bỏ stroke)
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
-  <rect width="1200" height="250" rx="6" fill="${bg}" stroke="${border}" stroke-width="1"/>
+  <rect width="1200" height="250" rx="6" fill="${bg}"/>
   ${band}
   <text x="40" y="48" font-size="20" font-weight="700" fill="${fg}" font-family="Consolas, monospace">@${esc(user.login)} <tspan fill="${muted}" font-weight="400">— telemetry</tspan></text>
   <text x="1150" y="48" font-size="16" fill="${accent}">✦<animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></text>
@@ -121,7 +121,7 @@ async function main() {
     updated_at: new Date().toISOString(),
   }, null, 2));
 
-  console.log("✅ metrics minimal done (dark + light)");
+  console.log("✅ metrics minimal done (borderless, dark + light)");
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

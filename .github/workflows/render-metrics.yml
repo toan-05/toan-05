@@ -37,5 +37,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/metrics.svg assets/metrics.json assets/space-banner.svg assets/space-divider.svg
+          git add assets/
           git diff --cached --quiet || (git commit -m "chore: auto-render metrics + space ✨ $(date -u '+%Y-%m-%d %H:%M UTC')" && git push)

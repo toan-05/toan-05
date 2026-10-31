@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
-  <rect width="1000" height="260" rx="6" fill="#0d1117"/>
+  <rect width="1000" height="260" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
   <g transform="rotate(-16 500 130)"><ellipse cx="500" cy="130" rx="430" ry="48" fill="#fff" opacity="0.035"/>
 <ellipse cx="500" cy="130" rx="300" ry="26" fill="#fff" opacity="0.05"/>
 <text x="53" y="114" font-size="4" fill="#fff" opacity="0.15" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.04;0.18;0.04" dur="4s" repeatCount="indefinite"/></text>
@@ -92,12 +92,12 @@
 <text x="972" y="126" font-size="4" fill="#fff" opacity="0.15" font-family="Consolas, monospace">⋆<animate attributeName="opacity" values="0.04;0.48;0.04" dur="7s" repeatCount="indefinite"/></text>
 <text x="109" y="118" font-size="6" fill="#fff" opacity="0.15" font-family="Consolas, monospace">·<animate attributeName="opacity" values="0.04;0.18;0.04" dur="8s" repeatCount="indefinite"/></text>
 <text x="246" y="108" font-size="8" fill="#fff" opacity="0.15" font-family="Consolas, monospace">✧<animate attributeName="opacity" values="0.04;0.28;0.04" dur="9s" repeatCount="indefinite"/></text>
-<text x="120" y="115" font-size="13" fill="#f0f6fc" opacity="0.7" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.25;0.9;0.25" dur="3s" repeatCount="indefinite"/></text>
-<text x="431" y="119" font-size="13" fill="#f0f6fc" opacity="0.7" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.25;0.9;0.25" dur="4s" repeatCount="indefinite"/></text>
-<text x="742" y="122" font-size="13" fill="#f0f6fc" opacity="0.7" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.25;0.9;0.25" dur="5s" repeatCount="indefinite"/></text>
-<text x="53" y="126" font-size="13" fill="#f0f6fc" opacity="0.7" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.25;0.9;0.25" dur="6s" repeatCount="indefinite"/></text>
-<text x="364" y="129" font-size="13" fill="#f0f6fc" opacity="0.7" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.25;0.9;0.25" dur="7s" repeatCount="indefinite"/></text>
-<text x="675" y="133" font-size="13" fill="#f0f6fc" opacity="0.7" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.25;0.9;0.25" dur="8s" repeatCount="indefinite"/></text>
+<text x="120" y="115" font-size="13" fill="#f0f6fc" opacity="0.25" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.25;0.9;0.25" dur="3s" repeatCount="indefinite"/></text>
+<text x="431" y="119" font-size="13" fill="#f0f6fc" opacity="0.25" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.25;0.9;0.25" dur="4s" repeatCount="indefinite"/></text>
+<text x="742" y="122" font-size="13" fill="#f0f6fc" opacity="0.25" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.25;0.9;0.25" dur="5s" repeatCount="indefinite"/></text>
+<text x="53" y="126" font-size="13" fill="#f0f6fc" opacity="0.25" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.25;0.9;0.25" dur="6s" repeatCount="indefinite"/></text>
+<text x="364" y="129" font-size="13" fill="#f0f6fc" opacity="0.25" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.25;0.9;0.25" dur="7s" repeatCount="indefinite"/></text>
+<text x="675" y="133" font-size="13" fill="#f0f6fc" opacity="0.25" font-family="Consolas, monospace">✦<animate attributeName="opacity" values="0.25;0.9;0.25" dur="8s" repeatCount="indefinite"/></text>
 </g>
   <g opacity="0">
     <line x1="0" y1="0" x2="108.1" y2="-20.5" stroke="#f0f6fc" stroke-width="1" stroke-linecap="round" opacity="0.5"/>

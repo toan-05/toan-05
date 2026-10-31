@@ -1,4 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="20" viewBox="0 0 1000 20">
-  <rect width="1000" height="20" fill="#0d1117"/>
-  <text x="460" y="15" font-size="12" fill="#6e7681" font-family="Consolas, monospace">· ✦ · ⋆ · ✧ ·<animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/></text>
+  <style>
+    .star-div { fill: #8b949e; }
+    @media (prefers-color-scheme: light) {
+      .star-div { fill: #57606a; }
+    }
+  </style>
+  <text x="500" y="15" text-anchor="middle" font-size="12" class="star-div" font-family="Consolas, monospace">· ✦ · ⋆ · ✧ ·<animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/></text>
 </svg>

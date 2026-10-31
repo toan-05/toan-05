@@ -1,12 +1,32 @@
 <div align="center">
 
-  <img src="./assets/space-banner.svg" width="100%" alt="toan-05" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/space-banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/space-banner-light.svg">
+    <img src="./assets/space-banner-dark.svg" width="100%" alt="toan-05" />
+  </picture>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=16&pause=1200&color=F0F6FC&center=true&vCenter=true&width=500&height=30&lines=backend+developer;starry+sky+online&transparent=true" width="100%" alt="typing" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&size=16&pause=1200&color=F0F6FC&center=true&vCenter=true&width=500&height=30&lines=backend+developer;starry+sky+online&transparent=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&size=16&pause=1200&color=1F2328&center=true&vCenter=true&width=500&height=30&lines=backend+developer;starry+sky+online&transparent=true">
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=16&pause=1200&color=1F2328&center=true&vCenter=true&width=500&height=30&lines=backend+developer;starry+sky+online&transparent=true" width="100%" alt="typing" />
+  </picture>
 
-  <img src="https://img.shields.io/badge/ROLE-BACKEND-0d1117?style=flat-square&labelColor=0d1117&color=0d1117&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/STACK-NODE.JS-0d1117?style=flat-square&labelColor=0d1117&color=0d1117&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/SKY-STARRY-0d1117?style=flat-square&labelColor=0d1117&color=0d1117&labelColor=0d1117" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ROLE-BACKEND-0d1117?style=flat-square&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=ROLE&message=BACKEND&color=eaeef2&labelColor=eaeef2&style=flat-square">
+    <img src="https://img.shields.io/badge/ROLE-BACKEND-0d1117?style=flat-square&labelColor=0d1117" alt="ROLE" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STACK-NODE.JS-0d1117?style=flat-square&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=STACK&message=NODE.JS&color=eaeef2&labelColor=eaeef2&style=flat-square">
+    <img src="https://img.shields.io/badge/STACK-NODE.JS-0d1117?style=flat-square&labelColor=0d1117" alt="STACK" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SKY-STARRY-0d1117?style=flat-square&labelColor=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=SKY&message=STARRY&color=eaeef2&labelColor=eaeef2&style=flat-square">
+    <img src="https://img.shields.io/badge/SKY-STARRY-0d1117?style=flat-square&labelColor=0d1117" alt="SKY" />
+  </picture>
 
   <br/>
   
@@ -18,7 +38,11 @@
 
 <div align="center">
 
-  <img src="./assets/metrics.svg" width="100%" alt="telemetry" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/metrics-light.svg">
+    <img src="./assets/metrics-dark.svg" width="100%" alt="telemetry" />
+  </picture>
 
 </div>
 
@@ -86,8 +110,16 @@
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=toan-05&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=f0f6fc" alt="stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=toan-05&hide_border=true&background=0d1117&ring=f0f6fc&fire=f0f6fc&currStreakNum=f0f6fc&currStreakLabel=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=6e7681" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=toan-05&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=f0f6fc">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=toan-05&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1f2328&text_color=656d76&icon_color=1f2328">
+    <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=toan-05&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=f0f6fc" alt="stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=toan-05&hide_border=true&background=0d1117&ring=f0f6fc&fire=f0f6fc&currStreakNum=f0f6fc&currStreakLabel=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=6e7681">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=toan-05&hide_border=true&background=ffffff&ring=1f2328&fire=1f2328&currStreakNum=1f2328&currStreakLabel=656d76&sideNums=656d76&sideLabels=656d76&dates=656d76">
+    <img width="49%" src="https://streak-stats.demolab.com?user=toan-05&hide_border=true&background=0d1117&ring=f0f6fc&fire=f0f6fc&currStreakNum=f0f6fc&currStreakLabel=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=6e7681" alt="streak" />
+  </picture>
 
 </div>
 
@@ -97,6 +129,10 @@
 
 <div align="center">
 
-  <img src="./assets/github-snake-dark.svg" width="100%" alt="contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg">
+    <img src="./assets/github-snake-dark.svg" width="100%" alt="contributions" />
+  </picture>
 
 </div>

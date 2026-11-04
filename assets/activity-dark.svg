@@ -13,7 +13,7 @@
   <text x="40" y="48" font-size="20" font-weight="700" fill="#f0f6fc" font-family="Consolas, monospace">@toan-05 <tspan fill="#8b949e" font-weight="400">— activity radar</tspan></text>
   <text x="1150" y="48" font-size="16" fill="#58a6ff">✦<animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></text>
 
-  <text x="420" y="48" font-size="13" fill="#8b949e" font-family="Consolas, monospace">30d pulse: <tspan fill="#f0f6fc" font-weight="700">87</tspan> contributions · peak: <tspan fill="#f0f6fc" font-weight="700">22</tspan>/day</text>
+  <text x="420" y="48" font-size="13" fill="#8b949e" font-family="Consolas, monospace">30d pulse: <tspan fill="#f0f6fc" font-weight="700">79</tspan> contributions · peak: <tspan fill="#f0f6fc" font-weight="700">22</tspan>/day</text>
 
   <!-- Lưới biểu đồ -->
   
@@ -28,37 +28,36 @@
   <text x="53" y="209" text-anchor="end" font-size="11" fill="#8b949e" font-family="Consolas, monospace">0</text>
 
   <!-- Vùng đổ màu bên dưới sóng -->
-  <path d="M 65.0,161.4 C 71.1,168.6 89.6,200.5 101.9,205.0 C 114.2,209.5 126.5,196.8 138.8,188.6 C 151.1,180.5 163.4,155.0 175.7,155.9 C 188.0,156.8 200.3,186.8 212.6,194.1 C 224.9,201.4 237.2,197.7 249.5,199.5 C 261.8,201.4 274.1,204.1 286.4,205.0 C 298.7,205.9 311.0,205.9 323.3,205.0 C 335.6,204.1 347.9,199.5 360.2,199.5 C 372.5,199.5 384.8,211.4 397.1,205.0 C 409.4,198.6 421.7,162.3 434.0,161.4 C 446.3,160.5 458.6,192.3 470.9,199.5 C 483.2,206.8 495.5,204.1 507.8,205.0 C 520.1,205.9 532.4,215.9 544.7,205.0 C 557.0,194.1 569.3,142.3 581.6,139.5 C 593.9,136.8 606.1,177.7 618.4,188.6 C 630.7,199.5 643.0,202.3 655.3,205.0 C 667.6,207.7 679.9,205.0 692.2,205.0 C 704.5,205.0 716.8,205.0 729.1,205.0 C 741.4,205.0 753.7,205.0 766.0,205.0 C 778.3,205.0 790.6,205.0 802.9,205.0 C 815.2,205.0 827.5,208.6 839.8,205.0 C 852.1,201.4 864.4,203.2 876.7,183.2 C 889.0,163.2 901.3,82.3 913.6,85.0 C 925.9,87.7 938.2,179.5 950.5,199.5 C 962.8,219.5 975.1,207.7 987.4,205.0 C 999.7,202.3 1012.0,183.2 1024.3,183.2 C 1036.6,183.2 1048.9,204.1 1061.2,205.0 C 1073.5,205.9 1085.8,193.2 1098.1,188.6 C 1110.4,184.1 1128.9,179.5 1135.0,177.7 L 1135.0,205 L 65.0,205 Z" fill="url(#actGrad_dark)"/>
+  <path d="M 65.0,205.0 C 71.1,202.3 89.6,196.8 101.9,188.6 C 114.2,180.5 126.5,155.0 138.8,155.9 C 151.1,156.8 163.4,186.8 175.7,194.1 C 188.0,201.4 200.3,197.7 212.6,199.5 C 224.9,201.4 237.2,204.1 249.5,205.0 C 261.8,205.9 274.1,205.9 286.4,205.0 C 298.7,204.1 311.0,199.5 323.3,199.5 C 335.6,199.5 347.9,211.4 360.2,205.0 C 372.5,198.6 384.8,162.3 397.1,161.4 C 409.4,160.5 421.7,192.3 434.0,199.5 C 446.3,206.8 458.6,204.1 470.9,205.0 C 483.2,205.9 495.5,215.9 507.8,205.0 C 520.1,194.1 532.4,142.3 544.7,139.5 C 557.0,136.8 569.3,177.7 581.6,188.6 C 593.9,199.5 606.1,202.3 618.4,205.0 C 630.7,207.7 643.0,205.0 655.3,205.0 C 667.6,205.0 679.9,205.0 692.2,205.0 C 704.5,205.0 716.8,205.0 729.1,205.0 C 741.4,205.0 753.7,205.0 766.0,205.0 C 778.3,205.0 790.6,208.6 802.9,205.0 C 815.2,201.4 827.5,203.2 839.8,183.2 C 852.1,163.2 864.4,82.3 876.7,85.0 C 889.0,87.7 901.3,179.5 913.6,199.5 C 925.9,219.5 938.2,207.7 950.5,205.0 C 962.8,202.3 975.1,183.2 987.4,183.2 C 999.7,183.2 1012.0,204.1 1024.3,205.0 C 1036.6,205.9 1048.9,193.2 1061.2,188.6 C 1073.5,184.1 1085.8,175.0 1098.1,177.7 C 1110.4,180.5 1128.9,200.5 1135.0,205.0 L 1135.0,205 L 65.0,205 Z" fill="url(#actGrad_dark)"/>
 
   <!-- Đường sóng nhịp tim -->
-  <path d="M 65.0,161.4 C 71.1,168.6 89.6,200.5 101.9,205.0 C 114.2,209.5 126.5,196.8 138.8,188.6 C 151.1,180.5 163.4,155.0 175.7,155.9 C 188.0,156.8 200.3,186.8 212.6,194.1 C 224.9,201.4 237.2,197.7 249.5,199.5 C 261.8,201.4 274.1,204.1 286.4,205.0 C 298.7,205.9 311.0,205.9 323.3,205.0 C 335.6,204.1 347.9,199.5 360.2,199.5 C 372.5,199.5 384.8,211.4 397.1,205.0 C 409.4,198.6 421.7,162.3 434.0,161.4 C 446.3,160.5 458.6,192.3 470.9,199.5 C 483.2,206.8 495.5,204.1 507.8,205.0 C 520.1,205.9 532.4,215.9 544.7,205.0 C 557.0,194.1 569.3,142.3 581.6,139.5 C 593.9,136.8 606.1,177.7 618.4,188.6 C 630.7,199.5 643.0,202.3 655.3,205.0 C 667.6,207.7 679.9,205.0 692.2,205.0 C 704.5,205.0 716.8,205.0 729.1,205.0 C 741.4,205.0 753.7,205.0 766.0,205.0 C 778.3,205.0 790.6,205.0 802.9,205.0 C 815.2,205.0 827.5,208.6 839.8,205.0 C 852.1,201.4 864.4,203.2 876.7,183.2 C 889.0,163.2 901.3,82.3 913.6,85.0 C 925.9,87.7 938.2,179.5 950.5,199.5 C 962.8,219.5 975.1,207.7 987.4,205.0 C 999.7,202.3 1012.0,183.2 1024.3,183.2 C 1036.6,183.2 1048.9,204.1 1061.2,205.0 C 1073.5,205.9 1085.8,193.2 1098.1,188.6 C 1110.4,184.1 1128.9,179.5 1135.0,177.7" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 65.0,205.0 C 71.1,202.3 89.6,196.8 101.9,188.6 C 114.2,180.5 126.5,155.0 138.8,155.9 C 151.1,156.8 163.4,186.8 175.7,194.1 C 188.0,201.4 200.3,197.7 212.6,199.5 C 224.9,201.4 237.2,204.1 249.5,205.0 C 261.8,205.9 274.1,205.9 286.4,205.0 C 298.7,204.1 311.0,199.5 323.3,199.5 C 335.6,199.5 347.9,211.4 360.2,205.0 C 372.5,198.6 384.8,162.3 397.1,161.4 C 409.4,160.5 421.7,192.3 434.0,199.5 C 446.3,206.8 458.6,204.1 470.9,205.0 C 483.2,205.9 495.5,215.9 507.8,205.0 C 520.1,194.1 532.4,142.3 544.7,139.5 C 557.0,136.8 569.3,177.7 581.6,188.6 C 593.9,199.5 606.1,202.3 618.4,205.0 C 630.7,207.7 643.0,205.0 655.3,205.0 C 667.6,205.0 679.9,205.0 692.2,205.0 C 704.5,205.0 716.8,205.0 729.1,205.0 C 741.4,205.0 753.7,205.0 766.0,205.0 C 778.3,205.0 790.6,208.6 802.9,205.0 C 815.2,201.4 827.5,203.2 839.8,183.2 C 852.1,163.2 864.4,82.3 876.7,85.0 C 889.0,87.7 901.3,179.5 913.6,199.5 C 925.9,219.5 938.2,207.7 950.5,205.0 C 962.8,202.3 975.1,183.2 987.4,183.2 C 999.7,183.2 1012.0,204.1 1024.3,205.0 C 1036.6,205.9 1048.9,193.2 1061.2,188.6 C 1073.5,184.1 1085.8,175.0 1098.1,177.7 C 1110.4,180.5 1128.9,200.5 1135.0,205.0" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- Các điểm hoạt động & hiệu ứng radar -->
-  <circle cx="65.0" cy="161.4" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="138.8" cy="188.6" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="175.7" cy="155.9" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="212.6" cy="194.1" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="249.5" cy="199.5" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="360.2" cy="199.5" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="434.0" cy="161.4" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="470.9" cy="199.5" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="581.6" cy="139.5" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="618.4" cy="188.6" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="876.7" cy="183.2" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="913.6" cy="85.0" r="4.5" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="950.5" cy="199.5" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="1024.3" cy="183.2" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="1098.1" cy="188.6" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="1135.0" cy="177.7" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
-<circle cx="913.6" cy="85.0" r="8" fill="none" stroke="#58a6ff" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="4;14;4" dur="2.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="101.9" cy="188.6" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="138.8" cy="155.9" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="175.7" cy="194.1" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="212.6" cy="199.5" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="323.3" cy="199.5" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="397.1" cy="161.4" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="434.0" cy="199.5" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="544.7" cy="139.5" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="581.6" cy="188.6" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="839.8" cy="183.2" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="876.7" cy="85.0" r="4.5" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="913.6" cy="199.5" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="987.4" cy="183.2" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="1061.2" cy="188.6" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="1098.1" cy="177.7" r="3.2" fill="#f0f6fc" stroke="#0d1117" stroke-width="2"/>
+<circle cx="876.7" cy="85.0" r="8" fill="none" stroke="#58a6ff" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="4;14;4" dur="2.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.5s" repeatCount="indefinite"/></circle>
 
 
   <!-- Nhãn ngày trục X -->
-  <text x="65.0" y="226" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Consolas, monospace">10/05</text>
-<text x="286.4" y="226" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Consolas, monospace">10/11</text>
-<text x="507.8" y="226" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Consolas, monospace">10/17</text>
-<text x="729.1" y="226" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Consolas, monospace">10/23</text>
-<text x="950.5" y="226" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Consolas, monospace">10/29</text>
-<text x="1135.0" y="226" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Consolas, monospace">11/03</text>
+  <text x="65.0" y="226" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Consolas, monospace">10/06</text>
+<text x="286.4" y="226" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Consolas, monospace">10/12</text>
+<text x="507.8" y="226" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Consolas, monospace">10/18</text>
+<text x="729.1" y="226" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Consolas, monospace">10/24</text>
+<text x="950.5" y="226" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Consolas, monospace">10/30</text>
+<text x="1135.0" y="226" text-anchor="middle" font-size="11" fill="#8b949e" font-family="Consolas, monospace">11/04</text>
 
 </svg>
